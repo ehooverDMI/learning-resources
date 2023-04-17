@@ -6,14 +6,7 @@
 <br/>
 <div align="center">
 
-A curated list of delightful <a href="https://code.visualstudio.com/">Visual Studio Code</a>
-packages and resources. For more awesomeness, check
-out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
-<br/>
-<br/>
-<img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome"/>
-<img src="https://travis-ci.org/viatsko/awesome-vscode.svg" alt="Build Status"/>
-</div>
+A list of learning resources to support your career
 <br/>
 
 # Table of Contents
