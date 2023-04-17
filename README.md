@@ -14,13 +14,7 @@ A list of learning resources to support your career
 - [Table of Contents](#table-of-contents)
 - [Official](#official)
 - [Syntax](#syntax)
-- [Migrating from other editors](#migrating-from-other-editors)
-  - [Migrating from Vim](#migrating-from-vim)
-  - [Migrating from Atom](#migrating-from-atom)
-  - [Migrating from Sublime Text](#migrating-from-sublime-text)
-  - [Migrating from Visual Studio](#migrating-from-visual-studio)
-  - [Migrating from Intellij IDEA](#migrating-from-intellij-idea)
-  - [Camel Humps](#camel-humps)
+
 - [Using VS Code with particular technologies](#using-vs-code-with-particular-technologies)
 - [Lint and IntelliSense](#lint-and-intellisense)
   - [1C](#1c)
@@ -268,34 +262,6 @@ Language packages extend the editor with syntax highlighting and/or snippets for
 - [VEX](https://marketplace.visualstudio.com/items?itemName=melmass.vex)
 - [Wenyan](https://github.com/antfu/wenyan-lang-vscode)
 - [Zephir](https://marketplace.visualstudio.com/items?itemName=zephir-lang.zephir)
-
-# Migrating from other editors
-
-The VSCode team provides keymaps from popular editors, making the transition to VSCode almost seamless and easy.
-
-## [Migrating from Vim](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim)
-
-> **Vim Mode** - Relatively new, but promising extension implementing Vim features in VSCode
-
-## [Migrating from Atom](https://marketplace.visualstudio.com/items?itemName=ms-vscode.atom-keybindings)
-
-> Popular Atom key bindings for Visual Studio Code
-
-## [Migrating from Sublime Text](https://marketplace.visualstudio.com/items?itemName=ms-vscode.sublime-keybindings)
-
-> Popular Sublime Text key bindings for VS Code.
-
-## [Migrating from Visual Studio](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vs-keybindings)
-
-> Popular Visual Studio key bindings for VS Code.
-
-## [Migrating from Intellij IDEA](https://marketplace.visualstudio.com/items?itemName=k--kato.intellij-idea-keybindings)
-
-> Popular Intellij IDEA key bindings for VS Code.
-
-## [Camel Humps](https://www.damirscorner.com/blog/posts/20190726-CamelHumpsNavigationInVsCode.html)
-
-> Like with Visual Studio and Resharper or Intellij IDEA
 
 # Using VS Code with particular technologies
 
